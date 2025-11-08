@@ -4,3 +4,9 @@ I'm a Frontend Developer passionate about creating clean, responsive, and user-f
 Focused on building scalable and maintainable code with modern web technologies.
 
 I'm excited to join a product team where I can contribute, learn from others, and continue growing as a developer.
+
+## <img src="./assets/gif/gears.gif" height="20" /> Tech Stack
+
+<img src="./assets/icons/HTML.svg" /> <img src="./assets/icons/CSS.svg" /> <img src="./assets/icons/JavaScript.svg" /> <img src="./assets/icons/Sass (SCSS).svg" /> <img src="./assets/icons/Tailwind CSS.svg" /> <br />
+<img src="./assets/icons/TypeScript.svg" /> <img src="./assets/icons/Vue.svg" /> <img src="./assets/icons/React.svg" /> <img src="./assets/icons/Vite.svg" /> <img src="./assets/icons/Git.svg" /> <img src="./assets/icons/Vercel.svg" /> <br />
+<img src="./assets/icons/Jest.svg" /> <img src="./assets/icons/Playwright.svg" />
